@@ -1,0 +1,71 @@
+
+<h1>Rhombus Guys</h1>
+
+<section class="food-type">
+	<h2>Appetizers</h2>
+<body>
+	<section class="item">
+		<heading>Rhombus Sticks</heading>
+		<div class="price">$6.99</div>
+		<p>These bread sticks are lightly brushed with garlic butter and seasoned with a dash of romano.</p>
+	</section>
+
+	<section class="item">
+		<heading>Boneless Wings</heading>
+		<div class="price">$5.99 - $12.49</div>
+		<p>6 piece $5.99 - 12 piece $9.49 - 18 piece $12.49</p>
+		<p>Choose from hot, mild, bbq, teriyaki, jerk or spicy bbq sauces</p><p>
+	</p><section class="item">
+		<heading>Rhombus Sticks</heading>
+		<div class="price">$6.99</div>
+		<p>These bread sticks are lightly brushed with garlic butter and seasoned with a dash of romano.</p>
+	</section>
+    </section>
+
+	<section class="item">
+		<heading>Nachos Grande</heading>
+		<div class="price">$8.99</div>
+		<p>Tortilla chips piled high with cheddar and mozzarella served with sour cream and salsa.</p>
+		<p>Add your choice of additional toppings for $1.50 each</p>
+		<p>Try them as bbq chicken or pulled pork for $13.50</p>
+        </section>
+ <!-- close food-type -->
+
+ <section class="food-type">
+	<h2>Fresh Salads</h2>
+
+	<section class="item">
+		<heading>Garden Fresh Salad</heading>
+		<div> class="price">$7.99</div>
+		<p>Romaine lettuce, tomato, onion, mushroom, black olives, parmesan and croutons.</p>
+	</section>
+
+	<section class="item">
+		<heading>Grilled Chicken Salad</heading>
+		<div class="price">$9.99</div>
+		<p>Romaine lettuce, chicken, tomato, onion, cheddar cheese and croutons.</p>
+	</section>
+</section><!-- Close food-type -->
+
+<section class="food-type">
+<h2>Rhombus Pizza Originals</h2>
+
+	<section class="item">
+		<heading>Deluxe</heading>
+		<div class="price">$10.99 - $26.99</div>
+		<p>8" $10.99 â€¢ 9" Gluten-Free $11.99 â€¢ 12" 18.99 â€¢ 16" $21.99 â€¢ 18" $26.99</p>
+		<p>Marinara, pepperoni, canadian bacon, sausage, beef, bacon, black and green olives, mushrooms, green peppers, onion and mozzarella</p>
+	</section>
+
+	<section class="item">
+	<heading>T-Rex</heading>
+	<div class="price">$9.99 - $25.99</div>
+	<p>8" $9.99 â€¢ 9" Gluten-Free $11.99 â€¢ 12" 17.99 â€¢ 16" $21.99 â€¢ 18" $25.99</p>
+	<p>Marinara, pepperoni, sausage, canadian bacon, beef, bacon, bacon and mozzarella.</p>
+	</section>
+
+</section> <!-- close .food-type -->
+
+
+
+</body>
